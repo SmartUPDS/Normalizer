@@ -42,10 +42,7 @@ public class Normalizer {
             this.collection.add(new Entry(element.getElementsByTag("image1").text(),
                                           element.getElementsByTag("image2").text(),
                                           element.getElementsByTag(Entry.measurementName).text()));
-        }
-        System.out.println(this.collection.size());
-        System.out.println(this.collection);
-        
+        }        
     }  
     
     public void exportColletion(File file) throws ParserConfigurationException, UnsupportedEncodingException, SAXException, IOException{
