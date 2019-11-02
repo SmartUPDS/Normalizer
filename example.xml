@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+   <obj xmlns:edp="http://www.stegmannsystems.com/2009/edp" lvl="1"
+        edp:created="2017-08-25T11:59:37Z"
+        edp:createdBy="Admin"
+        edp:updated="2017-08-25T14:03:32Z"
+        edp:updatedBy="Admin"
+        edp:version="1"
+        did="1983280">
+      <a5000>08155906</a5000>
+      <aob28>Verwalter<a2864>Chatsworth House</a2864>
+         <a2890>private Sammlung</a2890>
+         <a2900>Trustees of the Chatsworth Settlement</a2900>
+         <a2950>6</a2950>
+      </aob28>
+      <aob28>zweiter Vorbesitzer<a2864>Chatsworth House</a2864>
+         <a2890>private Sammlung</a2890>
+         <a2910>Devonshire, William (Duke, 2)</a2910>
+      </aob28>
+      <aob28>erster Vorbesitzer<a2890>private Sammlung</a2890>
+         <a2910>Lanière, Nicolas</a2910>
+      </aob28>
+      <aob30>Herstellung<a3100>Beccafumi, Domenico</a3100>
+         <a3475>Zeichner</a3475>
+         <a3000 edp:augmented="kue::02553279">02553279</a3000>
+         <a3105 edp:augmented="kue::02553279">Mecuccio &amp; Mecarino &amp; Pace, Domenico di &amp; Domenico di Pace</a3105>
+         <a31nn edp:augmented="kue::02553279">Domenico Beccafumi</a31nn>
+         <a30gn edp:augmented="kue::02553279">ulan500012009 &amp; gnd118930192</a30gn>
+      </aob30>
+      <a5200>Studie eines stehenden und eines liegenden Aktes vor einer Flusslandschaft</a5200>
+      <a5220>Zeichenkunst</a5220>
+      <a5230>Zeichnung</a5230>
+      <a5260 arg="random">Papier &amp; Rötel</a5260>
+      <a5358>weißliches Papier; Rötel</a5358>
+      <a5360>224 x 158 mm</a5360>
+      <a5500>31 A 23 1 &amp; 31 A 25 11 &amp; 31 B 62 11 &amp; 31 A 23 64 &amp; 25 H 12</a5500>
+      <a8350>M. Jaffé, The Devonshire Collection..., London 1994, Kat. 80</a8350>
+      <a8450>Foto<a8470>74197</a8470>
+         <a8460>Gernsheim Corpus of Drawings</a8460>
+         <a8496>2004.04.22</a8496>
+         <a8497>Donazione</a8497>
+         <a8498>Gernsheim, Walter &amp; Gernsheim, Jutta</a8498>
+         <a8515>g-art</a8515>
+      </a8450>
+      <a9902>Bibliotheca Hertziana Rom</a9902>
+   </obj>
+</root>
